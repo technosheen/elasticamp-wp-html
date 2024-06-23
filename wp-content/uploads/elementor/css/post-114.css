@@ -1,0 +1,51 @@
+.elementor-kit-114{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-60745f9:#0077CC;--e-global-color-93a781d:#00BFB3;--e-global-color-a3f8964:#949BAB;--e-global-color-72d6ffc:#294492;--e-global-color-2b95a39:#F5F7FA;--e-global-color-b723e60:#000000;--e-global-color-fe04614:#343741;--e-global-color-6aefc90:#FFFFFF;--e-global-color-051e9dd:#6EC1E400;--e-global-color-452e4ba:#E8F6FE;--e-global-color-46ae36f:#3E414B;--e-global-typography-primary-font-family:"Inter";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-ef6678a-font-family:"Inter";--e-global-typography-ef6678a-font-size:15px;--e-global-typography-ef6678a-font-weight:normal;--e-global-typography-ef6678a-line-height:25px;--e-global-typography-1851d82-font-family:"Inter";--e-global-typography-1851d82-font-size:24px;--e-global-typography-1851d82-font-weight:600;--e-global-typography-8d859fe-font-family:"Inter";--e-global-typography-8d859fe-font-size:15px;--e-global-typography-8d859fe-font-weight:bold;--e-global-typography-8d859fe-line-height:27px;--e-global-typography-095da42-font-family:"Inter";--e-global-typography-095da42-font-size:36px;--e-global-typography-095da42-font-weight:900;--e-global-typography-c2ebd17-font-family:"Inter";--e-global-typography-c2ebd17-font-size:15px;--e-global-typography-c2ebd17-font-weight:normal;--e-global-typography-c2ebd17-line-height:25px;--e-global-typography-6075bf2-font-family:"Inter";--e-global-typography-6075bf2-font-size:56px;--e-global-typography-6075bf2-font-weight:900;--e-global-typography-f9fadb2-font-family:"Inter";--e-global-typography-f9fadb2-font-size:24px;--e-global-typography-f9fadb2-font-weight:700;--e-global-typography-fa7e48a-font-size:16px;--e-global-typography-fa7e48a-font-weight:300;--e-global-typography-fa7e48a-line-height:1.8em;--e-global-typography-5b7bad3-font-family:"Inter";--e-global-typography-5b7bad3-font-size:24px;--e-global-typography-5b7bad3-font-weight:700;--e-global-typography-5b7bad3-line-height:1.25em;--e-global-typography-7da1158-font-family:"Inter";--e-global-typography-7da1158-font-size:32px;--e-global-typography-7da1158-font-weight:900;--e-global-typography-f168aab-font-family:"Inter";--e-global-typography-f168aab-font-size:16px;--e-global-typography-f168aab-font-weight:800;--e-global-typography-fa66215-font-family:"Mierb";--e-global-typography-fa66215-font-size:72px;--e-global-typography-fa66215-font-weight:900;--e-global-typography-086d83a-font-family:"Inter";--e-global-typography-086d83a-font-size:36px;--e-global-typography-086d83a-font-weight:700;--e-global-typography-b719dcc-font-family:"Inter";--e-global-typography-b719dcc-font-size:48px;--e-global-typography-b719dcc-font-weight:900;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-114 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-114{--e-global-typography-6075bf2-font-size:54px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('./../../2022/07/Inter-Regular.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('./../../2022/07/Inter-Bold-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('./../../2022/07/Inter-SemiBold-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Inter';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('./../../2022/07/Inter-Italic-1.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mierb';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('./../../2022/07/MierB-Bold-1.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mierb';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('./../../2022/07/MierB-Heavy-3.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Mierb';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('./../../2022/07/MierB-ExtraBold-4.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
